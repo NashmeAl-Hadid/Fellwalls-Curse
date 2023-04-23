@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - JumpTrigger
+  - SceneTransition
+  - Coin
+  - NPC
+  - NPC_Diag
+  - Ladders
+  - EnemyHit
+  - Hit
+  - PlayerHit
+  - FxTemporaire
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Background
+  - Player
+  - Enemy
+  - Ladder
+  - Midground
+  - Forground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ui_Dispaly
+    uniqueID: 2073356851
+    locked: 0
+  - name: Walls
+    uniqueID: 2181864669
+    locked: 0
+  - name: Handrail
+    uniqueID: 1593653241
+    locked: 0
+  - name: Background
+    uniqueID: 991020317
+    locked: 0
+  - name: Ground
+    uniqueID: 1937001017
+    locked: 0
+  - name: Props
+    uniqueID: 2018583697
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: NPC
+    uniqueID: 169396643
+    locked: 0
+  - name: Player
+    uniqueID: 319310137
+    locked: 0
+  - name: Coins
+    uniqueID: 2511721295
+    locked: 0

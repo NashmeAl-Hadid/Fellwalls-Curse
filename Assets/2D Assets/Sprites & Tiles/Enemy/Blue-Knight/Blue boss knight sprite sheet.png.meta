@@ -1,0 +1,1150 @@
+fileFormatVersion: 2
+guid: 3a88b195e49ac524587981b96a530ec2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9033275958560002646
+    second: BK_run_1
+  - first:
+      213: -3800071075604779394
+    second: BK_run_2
+  - first:
+      213: 8882438663903820901
+    second: BK_run_3
+  - first:
+      213: 1462063568708906418
+    second: BK_Attack1_1
+  - first:
+      213: -5105960353807189631
+    second: BK_Attack1_2
+  - first:
+      213: 617048707425976536
+    second: BK_Attack1_3
+  - first:
+      213: 3076330693004458424
+    second: BK_Attack1_4
+  - first:
+      213: 672083700336989957
+    second: BK_Attack1_5
+  - first:
+      213: -3924089136086424929
+    second: BK_Attack1_6
+  - first:
+      213: 3953843080499918400
+    second: BK_Attack1_7
+  - first:
+      213: -3233971093717323443
+    second: BK_Attack1_8
+  - first:
+      213: -7641429426858310340
+    second: BK_Attack1_9
+  - first:
+      213: 4460775321104866969
+    second: Blue boss knight sprite sheet_12
+  - first:
+      213: -5495886765958857831
+    second: BK_Attack2_1
+  - first:
+      213: -8175215187670157229
+    second: BK_Attack2_2
+  - first:
+      213: 7807890418682456562
+    second: BK_Attack2_3
+  - first:
+      213: -5443388248179210083
+    second: BK_Attack2_4
+  - first:
+      213: 2184224685877452652
+    second: BK_tele_1
+  - first:
+      213: -4740132361783800926
+    second: BK_tele_2
+  - first:
+      213: -3049002130839257705
+    second: BK_tele_3
+  - first:
+      213: 7679572705469346693
+    second: BK_tele_4
+  - first:
+      213: 7342559968754085151
+    second: BK_tele_5
+  - first:
+      213: 3070649993215670719
+    second: BK_tele_6
+  - first:
+      213: 7905227467746489512
+    second: BK_tele_7
+  - first:
+      213: 3303932593489111024
+    second: BK_tele_8
+  - first:
+      213: -8077707298720058988
+    second: BK_tele_9
+  - first:
+      213: 4161412555795322689
+    second: Blue boss knight sprite sheet_26
+  - first:
+      213: -6252283539059667206
+    second: BK_tele_10
+  - first:
+      213: -2171948253589065513
+    second: BK_tele_11
+  - first:
+      213: 7512224259591968374
+    second: BK_tele_12
+  - first:
+      213: -4570162502878141026
+    second: BK_tele_13
+  - first:
+      213: -5595917965716520654
+    second: BK_tele_14
+  - first:
+      213: -3598989660307900260
+    second: BK_tele_15
+  - first:
+      213: -4446544945011429600
+    second: Blue boss knight sprite sheet_33
+  - first:
+      213: 5287488252539172216
+    second: Blue boss knight sprite sheet_34
+  - first:
+      213: 9214332425189380784
+    second: Blue boss knight sprite sheet_35
+  - first:
+      213: -84640476674493173
+    second: Blue boss knight sprite sheet_36
+  - first:
+      213: 7747438258990835947
+    second: Blue boss knight sprite sheet_37
+  - first:
+      213: 3570713701004018297
+    second: Blue boss knight sprite sheet_38
+  - first:
+      213: -1822982403515670035
+    second: Blue boss knight sprite sheet_39
+  - first:
+      213: -8662697756991871311
+    second: Blue boss knight sprite sheet_40
+  - first:
+      213: 6833437254723586549
+    second: Blue boss knight sprite sheet_41
+  - first:
+      213: 3949450616985905802
+    second: Blue boss knight sprite sheet_42
+  - first:
+      213: -6815881545120611418
+    second: Blue boss knight sprite sheet_43
+  - first:
+      213: 4637018010006515454
+    second: Blue boss knight sprite sheet_44
+  - first:
+      213: -5639512541278411032
+    second: Blue boss knight sprite sheet_45
+  - first:
+      213: -7854703627979789658
+    second: Blue boss knight sprite sheet_46
+  - first:
+      213: 820720522084422362
+    second: Blue boss knight sprite sheet_47
+  - first:
+      213: -8433154667790933134
+    second: Blue boss knight sprite sheet_48
+  - first:
+      213: 2576186313275359096
+    second: Blue boss knight sprite sheet_49
+  - first:
+      213: -3400992485507849582
+    second: Blue boss knight sprite sheet_50
+  - first:
+      213: -6240224312562960397
+    second: Blue boss knight sprite sheet_51
+  - first:
+      213: 9136951847118154898
+    second: Blue boss knight sprite sheet_52
+  - first:
+      213: 764692518963958082
+    second: Blue boss knight sprite sheet_53
+  - first:
+      213: -433400548389473380
+    second: Blue boss knight sprite sheet_54
+  - first:
+      213: 7684847981904470681
+    second: Blue boss knight sprite sheet_55
+  - first:
+      213: -2723332111205988933
+    second: Blue boss knight sprite sheet_56
+  - first:
+      213: 8401597705414370524
+    second: Blue boss knight sprite sheet_57
+  - first:
+      213: -8278329749326700482
+    second: Blue boss knight sprite sheet_58
+  - first:
+      213: -1504912731455911341
+    second: Blue boss knight sprite sheet_59
+  - first:
+      213: 5826914016711060539
+    second: Blue boss knight sprite sheet_60
+  - first:
+      213: -3772971763357960316
+    second: Blue boss knight sprite sheet_61
+  - first:
+      213: 4038497095931742634
+    second: Blue boss knight sprite sheet_62
+  - first:
+      213: -6150711403423369042
+    second: Blue boss knight sprite sheet_63
+  - first:
+      213: -672886119251304891
+    second: Blue boss knight sprite sheet_64
+  - first:
+      213: -1441296774378996364
+    second: Blue boss knight sprite sheet_65
+  - first:
+      213: 6546013534855528209
+    second: Blue boss knight sprite sheet_66
+  - first:
+      213: -1603098266908039567
+    second: Blue boss knight sprite sheet_67
+  - first:
+      213: -8990821602971853993
+    second: Blue boss knight sprite sheet_68
+  - first:
+      213: 1254559035952491215
+    second: Blue boss knight sprite sheet_69
+  - first:
+      213: -862974692529644525
+    second: Blue boss knight sprite sheet_70
+  - first:
+      213: 4865122533919074125
+    second: Blue boss knight sprite sheet_71
+  - first:
+      213: 8958640743901645725
+    second: Blue boss knight sprite sheet_72
+  - first:
+      213: -4436323277389334567
+    second: Blue boss knight sprite sheet_73
+  - first:
+      213: 8597415904335078222
+    second: Blue boss knight sprite sheet_74
+  - first:
+      213: 2139405650956103048
+    second: Blue boss knight sprite sheet_75
+  - first:
+      213: -148617956633245107
+    second: Blue boss knight sprite sheet_76
+  - first:
+      213: -7341705960790775670
+    second: Blue boss knight sprite sheet_77
+  - first:
+      213: 4661705838002007481
+    second: Blue boss knight sprite sheet_78
+  - first:
+      213: 6841876399552364761
+    second: Blue boss knight sprite sheet_79
+  - first:
+      213: 7006286197976293816
+    second: Blue boss knight sprite sheet_0
+  - first:
+      213: -7011955307409290258
+    second: Blue boss knight sprite sheet_1
+  - first:
+      213: -5075866382583858875
+    second: Blue boss knight sprite sheet_2
+  - first:
+      213: 3818084352996244026
+    second: Blue boss knight sprite sheet_3
+  - first:
+      213: -1963636084874861257
+    second: Blue boss knight sprite sheet_4
+  - first:
+      213: -2343092195317840607
+    second: Blue boss knight sprite sheet_5
+  - first:
+      213: -1448374227225846513
+    second: Blue boss knight sprite sheet_6
+  - first:
+      213: 3170322861241251238
+    second: Blue boss knight sprite sheet_7
+  - first:
+      213: -4724866093167649668
+    second: Blue boss knight sprite sheet_8
+  - first:
+      213: 8836269690249236032
+    second: Blue boss knight sprite sheet_9
+  - first:
+      213: -2069669883636092209
+    second: Blue boss knight sprite sheet_10
+  - first:
+      213: -5353166813777054947
+    second: Blue boss knight sprite sheet_11
+  - first:
+      213: 2445751273784203478
+    second: Blue boss knight sprite sheet_12
+  - first:
+      213: -6000668376307500039
+    second: Blue boss knight sprite sheet_13
+  - first:
+      213: -1027984274852519063
+    second: Blue boss knight sprite sheet_14
+  - first:
+      213: 4339596681429673620
+    second: Blue boss knight sprite sheet_15
+  - first:
+      213: 5868872483799300311
+    second: Blue boss knight sprite sheet_16
+  - first:
+      213: 6952929893675652820
+    second: Blue boss knight sprite sheet_17
+  - first:
+      213: 9166438564965408621
+    second: Blue boss knight sprite sheet_18
+  - first:
+      213: -4049927668676867040
+    second: Blue boss knight sprite sheet_19
+  - first:
+      213: 7360995791153446983
+    second: Blue boss knight sprite sheet_20
+  - first:
+      213: 5136726464459110162
+    second: Blue boss knight sprite sheet_21
+  - first:
+      213: 3746716194336227625
+    second: Blue boss knight sprite sheet_22
+  - first:
+      213: -8583753205202246523
+    second: Blue boss knight sprite sheet_23
+  - first:
+      213: -4996073525617639467
+    second: Blue boss knight sprite sheet_24
+  - first:
+      213: -4407887453208545462
+    second: Blue boss knight sprite sheet_25
+  - first:
+      213: -5720102622455346844
+    second: Blue boss knight sprite sheet_26
+  - first:
+      213: 7513698221989015096
+    second: Blue boss knight sprite sheet_27
+  - first:
+      213: -4405128146018263882
+    second: Blue boss knight sprite sheet_28
+  - first:
+      213: -1452226870314808777
+    second: Blue boss knight sprite sheet_29
+  - first:
+      213: 4445569160462062166
+    second: Blue boss knight sprite sheet_30
+  - first:
+      213: -2774567223062698230
+    second: Blue boss knight sprite sheet_31
+  - first:
+      213: -4967121480704060431
+    second: Blue boss knight sprite sheet_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BK_run_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 199
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6529b0cbf94ac5d70800000000000000
+      internalID: 9033275958560002646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_run_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 199
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e27598d7f634bc0800000000000000
+      internalID: -3800071075604779394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_run_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 199
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cbe2557e2c44b70800000000000000
+      internalID: 8882438663903820901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_Attack1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 151
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd2fe3c11b4a4410800000000000000
+      internalID: 1462063568708906418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_Attack1_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 151
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189381a5c1cf329b0800000000000000
+      internalID: -5105960353807189631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_Attack1_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 151
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d04d37b782309800800000000000000
+      internalID: 617048707425976536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_Attack1_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 151
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b97928577251ba20800000000000000
+      internalID: 3076330693004458424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_Attack1_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 151
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5079ae98098b35900800000000000000
+      internalID: 672083700336989957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_Attack1_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 151
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f926990b8b5da89c0800000000000000
+      internalID: -3924089136086424929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_Attack1_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 151
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04675d6555fded630800000000000000
+      internalID: 3953843080499918400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_Attack1_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 150
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41f811bc60ae13d0800000000000000
+      internalID: -3233971093717323443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_Attack1_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 150
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35c4eb1c6034f590800000000000000
+      internalID: -7641429426858310340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue boss knight sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 151
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ed845358bd7ed30800000000000000
+      internalID: 4460775321104866969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_Attack2_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 101
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b7045da10bab3b0800000000000000
+      internalID: -5495886765958857831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_Attack2_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 101
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358ba88d91dcb8e80800000000000000
+      internalID: -8175215187670157229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_Attack2_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 101
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f96eb2c7f23b5c60800000000000000
+      internalID: 7807890418682456562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_Attack2_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 101
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d980eb48a333574b0800000000000000
+      internalID: -5443388248179210083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_tele_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f5d5f77ccef4e10800000000000000
+      internalID: 2184224685877452652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_tele_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab0b833bbaa73eb0800000000000000
+      internalID: -4740132361783800926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_tele_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dbaef57b4cfa5d0800000000000000
+      internalID: -3049002130839257705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_tele_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 56
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583394000b2539a60800000000000000
+      internalID: 7679572705469346693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_tele_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 56
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d2797936306e560800000000000000
+      internalID: 7342559968754085151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_tele_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 56
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9fc2b56e32d9a20800000000000000
+      internalID: 3070649993215670719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_tele_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 56
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4b0bb8f7205bd60800000000000000
+      internalID: 7905227467746489512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_tele_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 56
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7e0c4503de9dd20800000000000000
+      internalID: 3303932593489111024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_tele_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 56
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491f534620836ef80800000000000000
+      internalID: -8077707298720058988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue boss knight sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 56
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147d700ebae40c930800000000000000
+      internalID: 4161412555795322689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_tele_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe835b4f3d6b39a0800000000000000
+      internalID: -6252283539059667206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_tele_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 7
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d03b422290bbd1e0800000000000000
+      internalID: -2171948253589065513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_tele_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 7
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6761d02a928c04860800000000000000
+      internalID: 7512224259591968374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_tele_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 7
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95632ada658390c0800000000000000
+      internalID: -4570162502878141026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_tele_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 7
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2318d35324e4752b0800000000000000
+      internalID: -5595917965716520654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_tele_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c983b03e8f1dd0ec0800000000000000
+      internalID: -3598989660307900260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

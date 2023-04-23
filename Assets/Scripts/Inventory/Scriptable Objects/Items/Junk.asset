@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90757c184e2315846b3839ef9cf4ebb3, type: 3}
+  m_Name: Junk
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: 21300000, guid: b56d97c0ec979fa4099b751a20f74291, type: 3}
+  _text: {fileID: 0}
+  stackable: 0
+  types: 2
+  description: Not worth much.
+  data:
+    Name: 
+    Description: 
+    Id: 2
+    buffs:
+    - attribute: 0
+      value: 0
+      min: 40
+      max: 40

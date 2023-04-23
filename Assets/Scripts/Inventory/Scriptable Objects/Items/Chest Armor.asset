@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db831ad077ea9174cb5cea4c2f3efc54, type: 3}
+  m_Name: Chest Armor
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: -1099163315959880021, guid: d266fc67abdc1074288845ce8b7a358e, type: 3}
+  _text: {fileID: 0}
+  stackable: 0
+  types: 1
+  description: Gives defence bonus
+  data:
+    Name: 
+    Id: 0
+    buffs:
+    - attribute: 3
+      value: 0
+      min: 20
+      max: 20

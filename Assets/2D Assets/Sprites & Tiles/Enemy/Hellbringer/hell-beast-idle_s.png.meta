@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 7e9d08cd7affe2f4dbad7ced27b9fddc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8005313462175008860
+    second: hell-beast-idle_s_0
+  - first:
+      213: 6791911499908833048
+    second: hell-beast-idle_s_1
+  - first:
+      213: -7938029571244607789
+    second: hell-beast-idle_s_2
+  - first:
+      213: -2104697835809909891
+    second: hell-beast-idle_s_3
+  - first:
+      213: -6178089021291539054
+    second: hell-beast-idle_s_4
+  - first:
+      213: -8510747726360533
+    second: hell-beast-idle_s_5
+  - first:
+      213: 4049903205251810586
+    second: hell-beast-idle_s_0
+  - first:
+      213: 3978302109391750378
+    second: hell-beast-idle_s_1
+  - first:
+      213: -5008524937087883542
+    second: hell-beast-idle_s_2
+  - first:
+      213: 3117555839761054981
+    second: hell-beast-idle_s_3
+  - first:
+      213: -8855332054229736972
+    second: hell-beast-idle_s_4
+  - first:
+      213: -1225670827268929394
+    second: hell-beast-idle_s_5
+  - first:
+      213: 5777169584795953222
+    second: hell-beast-idle_s_6
+  - first:
+      213: -2608963636947697546
+    second: hell-beast-idle_s_7
+  - first:
+      213: 6339519615174681171
+    second: hell-beast-idle_s_8
+  - first:
+      213: -5843069596464252198
+    second: hell-beast-idle_s_9
+  - first:
+      213: -3611148568439344413
+    second: hell-beast-idle_s_10
+  - first:
+      213: -8603472359689234438
+    second: hell-beast-idle_s_11
+  - first:
+      213: -6822324956123852712
+    second: hell-beast-idle_s_12
+  - first:
+      213: 1454684461135972450
+    second: hell-beast-idle_s_13
+  - first:
+      213: 3891501101285207951
+    second: hell-beast-idle_s_14
+  - first:
+      213: -6091671047951878017
+    second: hell-beast-idle_s_15
+  - first:
+      213: 7077430604299533120
+    second: hell-beast-idle_s_16
+  - first:
+      213: -2064387587846388031
+    second: hell-beast-idle_s_17
+  - first:
+      213: -6057699158723664303
+    second: hell-beast-idle_s_18
+  - first:
+      213: -7146418234555750021
+    second: hell-beast-idle_s_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hell-beast-idle_s_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7f763f1d967e090800000000000000
+      internalID: -8005313462175008860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell-beast-idle_s_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fd4f92687b14e50800000000000000
+      internalID: 6791911499908833048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell-beast-idle_s_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d63b65992476d190800000000000000
+      internalID: -7938029571244607789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell-beast-idle_s_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d735401387c9ac2e0800000000000000
+      internalID: -2104697835809909891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell-beast-idle_s_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2955d2f94c4034aa0800000000000000
+      internalID: -6178089021291539054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hell-beast-idle_s_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b205ff02583c1eff0800000000000000
+      internalID: -8510747726360533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

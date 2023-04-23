@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: 71451a524ff406a44930c80ca0ed6165
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4993473344049556695
+    second: bat-NESW_0
+  - first:
+      213: -6345396640211466084
+    second: bat-NESW_1
+  - first:
+      213: 77596207651522690
+    second: bat-NESW_2
+  - first:
+      213: 7464014559248988786
+    second: bat-NESW_3
+  - first:
+      213: -6268197280618461677
+    second: bat-NESW_4
+  - first:
+      213: -3815577797394506687
+    second: bat-NESW_5
+  - first:
+      213: 5154073006789968010
+    second: bat-NESW_6
+  - first:
+      213: -5557878150442523298
+    second: bat-NESW_7
+  - first:
+      213: 8005363258175972589
+    second: bat-NESW_8
+  - first:
+      213: -1684851591236924456
+    second: bat-NESW_9
+  - first:
+      213: -4860410292633199777
+    second: bat-NESW_10
+  - first:
+      213: -8418913996238387513
+    second: bat-NESW_11
+  - first:
+      213: 6667001245374416294
+    second: bat-NESW_12
+  - first:
+      213: -4640074665303695359
+    second: bat-NESW_13
+  - first:
+      213: -8584563374513801392
+    second: bat-NESW_14
+  - first:
+      213: 7948341481759180917
+    second: bat-NESW_15
+  - first:
+      213: -2833124899776535409
+    second: bat-NESW_16
+  - first:
+      213: 753719764477046293
+    second: bat-NESW_17
+  - first:
+      213: -4016040550049233638
+    second: bat-NESW_18
+  - first:
+      213: 378786573377829528
+    second: bat-NESW_19
+  - first:
+      213: 2145066655541934074
+    second: bat-NESW_20
+  - first:
+      213: -6808602507789762206
+    second: bat-NESW_21
+  - first:
+      213: 24006404564896985
+    second: bat-NESW_22
+  - first:
+      213: 7482099655515951286
+    second: bat-NESW_23
+  - first:
+      213: 8450978165885992935
+    second: bat-NESW_24
+  - first:
+      213: 1371651195321346643
+    second: bat-NESW_25
+  - first:
+      213: 1955447588398175042
+    second: bat-NESW_26
+  - first:
+      213: 1769849157621249488
+    second: bat-NESW_27
+  - first:
+      213: 1299026383809595321
+    second: bat-NESW_28
+  - first:
+      213: -6048935021009512313
+    second: bat-NESW_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bat-NESW_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 213
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dca473cc816c4540800000000000000
+      internalID: 4993473344049556695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-NESW_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 218
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c980d35006f90f7a0800000000000000
+      internalID: -6345396640211466084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-NESW_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 214
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2888cf8f65da31100800000000000000
+      internalID: 77596207651522690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-NESW_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 150
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a316212b1859760800000000000000
+      internalID: 7464014559248988786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-NESW_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 153
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316caaa98c3e209a0800000000000000
+      internalID: -6268197280618461677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-NESW_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 150
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cde6585385c0bc0800000000000000
+      internalID: -3815577797394506687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-NESW_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 85
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80452c9712f68740800000000000000
+      internalID: 5154073006789968010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-NESW_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 85
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55e7f1e4437ed2b0800000000000000
+      internalID: -5557878150442523298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-NESW_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 85
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4ea851873c81f60800000000000000
+      internalID: 8005363258175972589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-NESW_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db421d87643e98e0800000000000000
+      internalID: -1684851591236924456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-NESW_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 25
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b12f4279a5c8cb0800000000000000
+      internalID: -4860410292633199777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-NESW_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 22
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c685a363520a2b80800000000000000
+      internalID: -8418913996238387513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
