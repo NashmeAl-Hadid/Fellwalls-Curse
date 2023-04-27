@@ -1,7 +1,7 @@
-# Fellwalls-Curse
-Metroidvania-style Game
-Coding Language: C#
-Engine and software: Unity/Unity Collaborate
-Contributions: Player Controller/Level Design/Dialogue & Narrative
-Date: May 2021
-Time: ~6 months
+# Fellwalls-Curse<br>
+Metroidvania-style Game<br>
+Coding Language: C#<br>
+Engine and software: Unity/Unity Collaborate<br>
+Contributions: Player Controller/Level Design/Dialogue & Narrative<br>
+Date: May 2021<br>
+Time: ~6 months<br>
