@@ -1,6 +1,7 @@
 # Fellwalls-Curse<br>
 Metroidvania-style Game<br>
 
+Platform: PC<br>
 Coding Language: C#<br>
 Engine and software: Unity/Unity Collaborate<br>
 Contributions: Player Controller/Level Design/Dialogue & Narrative (Group Project)<br>
